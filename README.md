@@ -6,6 +6,3 @@
 - 🤔 I'm Seeking  New Knowledge
 - 💬 Ask me about Android
 
-
-Connect with me:
-harshgaurav7 harsh-g-73673b108 omnivertbird.exe
