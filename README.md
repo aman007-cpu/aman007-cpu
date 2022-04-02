@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman007-cpu" alt="aman007-cpu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@aman63231719" target="blank"><img src="https://img.shields.io/twitter/follow/@aman63231719?logo=twitter&style=for-the-badge" alt="@aman63231719" /></a> </p>
 
 - 🔭 I’m currently working on **Notes - App**
 
