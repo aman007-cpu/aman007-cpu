@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aman Kaintura</h1>
 
-<h3 align="center">A passionate Android and  Full Stack Developer</h3>
+<h3 align="center">A passionate Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman007-cpu&label=Profile%20views&color=0e75b6&style=flat" alt="aman007-cpu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman007-cpu" alt="aman007-cpu" /></a> </p>
 
 
-- 🔭 I’m currently working on **Notes - App**
+- 🔭 I’m currently working on **E-commerce Dashboard**
 
 - 🌱 I’m currently learning **Flutter,Machine Learning etc**
 
