@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Kaintura</h1>
 
-<h3 align="center">A passionate Android and Front-End Web-Developer</h3>
+<h3 align="center">A passionate Android and  Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman007-cpu&label=Profile%20views&color=0e75b6&style=flat" alt="aman007-cpu" /> </p>
 
